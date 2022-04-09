@@ -6,8 +6,7 @@ Welcome back to TrappyGames, travellers! As you can see, I have moved on to a mu
 
 GAME ONE : GRAB THE SHARDS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+DAY ONE ENDS HERE!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
