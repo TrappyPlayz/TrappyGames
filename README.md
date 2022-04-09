@@ -6,7 +6,7 @@ Welcome back to TrappyGames, travellers! As you can see, I have moved on to a mu
 
 GAME ONE : GRAB THE SHARDS
 
-DAY ONE ENDS HERE!
+DAY ONE ENDS HERE! why
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
