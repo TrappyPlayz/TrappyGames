@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## _TrappyGames_
+##### **Two-Dimensional executables packed with fun.
 
-You can use the [editor on GitHub](https://github.com/TrappyPlayz/TrappyGames/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome back to TrappyGames, travellers! As you can see, I have moved on to a much more professional website design using Github! This page is coded in HTML and Markdown. Hope you like the changes.
+<hr>
+
+GAME ONE : GRAB THE SHARDS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
