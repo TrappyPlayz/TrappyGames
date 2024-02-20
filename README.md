@@ -8,7 +8,7 @@ Welcome to TrappyGames! I'm Trappy, and I make games primarily in Python and Pyg
 ### GAMES
 Hey, you're here for this aren't you. <br> 
 
-![D'Agent](/assets/D.png)
+![D'Agent](/main/D.png)
 
 Criminals across town have procured shipments of illegal substances and are hiding it in a park. They are all armed to the teeth but the government is actively searching its databases while more and more criminals are trying to grab a peice of the substance. This substance gets you addicted on it and you eventually lose control of yourself. Once someone is fully affected by it, they are a threat to society with their unpredictable nature. While the government figures out who is handing these out, you must take out the people affected by the drug one by one. Be mindful, because sober criminals can spot your badge and stab you. 
 
