@@ -19,7 +19,7 @@ Press the spacebar to call for backup and return to the safe zone. (NOTE THAT ON
 That's about it.
 
 *UI*
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\UIHELP.png)
+![D'Agent](/main/UIHELP.png)
 
 *Technical Stuff for Geeks*
 <br>
@@ -34,22 +34,22 @@ Last Updated : **4/09/2022 11:06AM**
 [D'AGENT- Version 1.0](https://mega.nz/file/B9li1YII#ixxic-Rt7bDiSrPMFtzLmIJ9nI0PHJfSqEhmpq6Mqoc)
 
 Once downloaded, click on Extract All
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP.png)
+![D'Agent](/main/HELP.png)
 
 Choose your destination of download by click on browse, and click on Extract.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP2.png)
+![D'Agent](/main/HELP2.png)
 
 This window should pop up.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP3.png)
+![D'Agent](/main/HELP3.png)
 
 Open the folder and scroll until you find the .exe file.
 **WARNING: DO NOT TOUCH ANY OTHER FILE HERE** 
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP4.png)
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\FINALHELP.png)
+![D'Agent](/main/HELP4.png)
+![D'Agent](/main/FINALHELP.png)
 
 Incase this pops up while trying to run the game, click on More Info and then a "Run anyway" option will show up.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\MOREHELP.png)
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\EVENMOREHELP.png)
+![D'Agent](/main/MOREHELP.png)
+![D'Agent](/main/EVENMOREHELP.png)
 
 *WHY DOES THIS HAPPEN?* <br>
 I don't have a publisher, so Windows thinks i'm someone sending a malicious file under my anonymous publishing name. It happens when a software isn't recognised by windows as it's not used by a lot of people.
