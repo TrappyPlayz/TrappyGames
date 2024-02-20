@@ -1,23 +1,12 @@
 ## _TrappyGames_
-##### **Two-Dimensional executables packed with fun.
+##### Two-dimensional Executables packed with fun.
 
-Welcome back to TrappyGames, travellers! As you can see, I have moved on to a much more professional website design using Github! This page is coded in HTML and Markdown. Hope you like the changes.
+Welcome to TrappyGames! I'm Trappy, and I make games primarily in Python and Pygame. I wish to expand this website as I learn more about programming languages and I will post my projects on here. All my games are small games with a simple gameplay concept and it's mostly for my own practice. If you have some time to kill, i'd suggest installing and running one of these bad boys up and have some fun! Choose a game from the list below and follow the download instructions to begin having fun.
+
 <hr>
 
-**HIGHLIGHT - D'AGENT**
+### GAMES
+Hey, you're here for this aren't you. <br> 
 
+![D'Agent](/PycharmProjects/Website Gunk/D.png)
 
-
-
-[Download](url) 
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrappyPlayz/TrappyGames/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
