@@ -19,7 +19,7 @@ Press the spacebar to call for backup and return to the safe zone. (NOTE THAT ON
 That's about it.
 
 *UI*
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\UIHELP.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/fc23824b-78e0-473b-9461-925e0608e783)
 
 *Technical Stuff for Geeks*
 <br>
@@ -34,22 +34,22 @@ Last Updated : **4/09/2022 11:06AM**
 [D'AGENT- Version 1.0](https://mega.nz/file/B9li1YII#ixxic-Rt7bDiSrPMFtzLmIJ9nI0PHJfSqEhmpq6Mqoc)
 
 Once downloaded, click on Extract All
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/4a9406c5-d731-4df2-b2ef-75dbb46ebf40)
 
 Choose your destination of download by click on browse, and click on Extract.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP2.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/5098919f-2181-43d3-ab74-71241a57c0b2)
 
 This window should pop up.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP3.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/33619d8f-0031-4114-95ea-3161932be3f4)
 
 Open the folder and scroll until you find the .exe file.
 **WARNING: DO NOT TOUCH ANY OTHER FILE HERE** 
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\HELP4.png)
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\FINALHELP.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/f7e171b4-a351-40a8-a8fb-b7506ba6c5d8)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/a171d0ba-4b22-4448-996b-934a1a03f230)
 
 Incase this pops up while trying to run the game, click on More Info and then a "Run anyway" option will show up.
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\MOREHELP.png)
-![D'Agent](C:\Users\laksh\PycharmProjects\Website Gunk\EVENMOREHELP.png)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/fa9da8b4-1a34-4dd2-a78d-98429ad468e2)
+![D'Agent](https://github.com/TrappyPlayz/TrappyGames/assets/93108885/1b0840fc-a6f6-4b5c-a912-cdfe2d7a2635)
 
 *WHY DOES THIS HAPPEN?* <br>
 I don't have a publisher, so Windows thinks i'm someone sending a malicious file under my anonymous publishing name. It happens when a software isn't recognised by windows as it's not used by a lot of people.
